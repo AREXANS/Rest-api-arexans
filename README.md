@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AREXANS/aryaa/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AREXANS/Rest-api-arexans/)
 
 # ```Alphabot-Api```
 <p align="center">
