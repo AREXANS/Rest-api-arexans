@@ -1,0 +1,13 @@
+{
+  "name": "aryaa",
+  "description": "Rest Apikey Arexans",
+  "repository": "https://github.com/AREXANS/Rest-api-arexans/",
+  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "keywords": ["nodejs", "api", "rest-api", "apikey", "rest apikey"]
+  "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
